@@ -1076,6 +1076,7 @@ const Z=`<!DOCTYPE html>
         <div class="about-links">
           <a class="about-link" href="mailto:amr.fakhri@gmail.com">amr.fakhri@gmail.com</a>
           <a class="about-link" href="https://amrfakhri.com" target="_blank">amrfakhri.com</a>
+          <a class="about-link" href="https://github.com/amrfakhri/UI-Audit/blob/main/privacy%20policy.md" target="_blank">Privacy Policy</a>
         </div>
       </div>
     </div><!-- /view-about -->

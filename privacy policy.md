@@ -39,4 +39,4 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 ### Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-[Insert Contact Email]
+[amr.fakhri@gmail.com]
